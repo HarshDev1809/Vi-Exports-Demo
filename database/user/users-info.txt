@@ -1,0 +1,33 @@
+1. User Schema :
+
+{
+    "User ID": ,
+    "First Name" : ,
+    "Last Name" : ,
+    "Username" : ,
+    "Email ID" : ,
+    "Password" : ,
+    "Phone number" : ,
+    "Favorite" : [
+        Product Id
+    ],
+    "Cart" : [
+        {
+            "Product ID" : ,
+            "Size" : 
+            "Quantity" : 
+        }
+    ],
+    "Address":{
+            "Name" : ,
+            "Local phone number" : ,
+        "House no." :,
+        "Street":,
+        "Landmark" : ,
+        "District" : ,
+        "City" : ,
+        "State" : 
+
+    },
+    "Order History" : ,
+}

@@ -1,0 +1,28 @@
+/* BottomBar.css */
+
+.bottom-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    border-top: 1px solid #ddd;
+}
+
+.bottom-bar .MuiBottomNavigationAction-root {
+    min-width: 0;
+}
+
+.bottom-bar .Mui-selected {
+    color: #1976d2 !important;
+}
+
+.bottom-bar .MuiBottomNavigationAction-label {
+    font-size: 12px;
+}
+
+.bottom-bar .MuiBottomNavigationAction-iconOnly {
+    color: #666;
+}

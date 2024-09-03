@@ -1,0 +1,206 @@
+[
+  {
+    "User ID": 1725192605458,
+    "First name": "Harsh",
+    "Last name": "dev",
+    "Username": "harshDev",
+    "Email ID": "harshDev@gmail.com",
+    "Password": "$2b$10$df7PrVLTPGpUMlzypjq0WOrc45f3h6f2FzS3A8C8bLH40Tg5lHVQi",
+    "Phone number": "8800961922",
+    "Favorite": [],
+    "Cart": [],
+    "Address": {
+      "Name": "Harsh Dev",
+      "Local phone number": "8800961922",
+      "House no.": "93",
+      "Street": "Sector-4",
+      "Landmark": "Near Aryan public school",
+      "District": "Ghaziabad",
+      "City": "Vaishali",
+      "State": "Uttar Pradesh",
+      "Pin code": "201010"
+    },
+    "Order History": [
+      {
+        "Order ID": 1725277868287,
+        "User": {
+          "User ID": 1725192605458,
+          "Username": "harshDev",
+          "Email ID": "harshDev@gmail.com",
+          "Phone number": "8800961922",
+          "Name": "Harsh dev"
+        },
+        "Products": [
+          {
+            "Product ID": 2,
+            "Size": "M",
+            "Quantity": 5,
+            "Product name": "Women's Crochet Tote Bag",
+            "Product image": "https://a.media-amazon.com/images/I/51wMoZ-h2CL._SY695_.jpg",
+            "Product price": 699
+          }
+        ],
+        "Delivered to": {
+          "Name": "Harsh Dev",
+          "Local phone number": "8800961922",
+          "House no.": "93",
+          "Street": "Sector-4",
+          "Landmark": "Near Aryan public school",
+          "District": "Ghaziabad",
+          "City": "Vaishali",
+          "State": "Uttar Pradesh",
+          "Pin code": "201010"
+        },
+        "Status": "placed",
+        "Placed on": "2/9/2024",
+        "Expected delivery date": "6/9/2024",
+        "Delivered on": "",
+        "Total amount": null,
+        "Payment mode": "Cash on Delivery"
+      },
+      {
+        "Order ID": 1725277949876,
+        "User": {
+          "User ID": 1725192605458,
+          "Username": "harshDev",
+          "Email ID": "harshDev@gmail.com",
+          "Phone number": "8800961922",
+          "Name": "Harsh dev"
+        },
+        "Products": [
+          {
+            "Product ID": 1,
+            "Size": "S",
+            "Quantity": 4,
+            "Product name": "Woman's Hand Bag",
+            "Product image": "https://a.media-amazon.com/images/I/51wMoZ-h2CL._SY695_.jpg",
+            "Product price": 100
+          },
+          {
+            "Product ID": 2,
+            "Size": "XL",
+            "Quantity": 4,
+            "Product name": "Women's Crochet Tote Bag",
+            "Product image": "https://a.media-amazon.com/images/I/51wMoZ-h2CL._SY695_.jpg",
+            "Product price": 699
+          }
+        ],
+        "Delivered to": {
+          "Name": "Harsh Dev",
+          "Local phone number": "8800961922",
+          "House no.": "93",
+          "Street": "Sector-4",
+          "Landmark": "Near Aryan public school",
+          "District": "Ghaziabad",
+          "City": "Vaishali",
+          "State": "Uttar Pradesh",
+          "Pin code": "201010"
+        },
+        "Status": "placed",
+        "Placed on": "2/9/2024",
+        "Expected delivery date": "6/9/2024",
+        "Delivered on": "",
+        "Total amount": null,
+        "Payment mode": "Cash on Delivery"
+      },
+      {
+        "Order ID": 1725285951330,
+        "User": {
+          "User ID": 1725192605458,
+          "Username": "harshDev",
+          "Email ID": "harshDev@gmail.com",
+          "Phone number": "8800961922",
+          "Name": "Harsh dev"
+        },
+        "Products": [
+          {
+            "Product ID": 3,
+            "Size": "S",
+            "Quantity": 3,
+            "Product name": "Woman's Hand Bag",
+            "Product image": "https://a.media-amazon.com/images/I/51wMoZ-h2CL._SY695_.jpg",
+            "Product price": 100
+          }
+        ],
+        "Delivered to": {
+          "Name": "Harsh Dev",
+          "Local phone number": "8800961922",
+          "House no.": "93",
+          "Street": "Sector-4",
+          "Landmark": "Near Aryan public school",
+          "District": "Ghaziabad",
+          "City": "Vaishali",
+          "State": "Uttar Pradesh",
+          "Pin code": "201010"
+        },
+        "Status": "placed",
+        "Placed on": "2/9/2024",
+        "Expected delivery date": "6/9/2024",
+        "Delivered on": "",
+        "Total amount": null,
+        "Payment mode": "Cash on Delivery"
+      }
+    ]
+  },
+  {
+    "User ID": 1725192724117,
+    "First name": "Harsh",
+    "Last name": "dev",
+    "Username": "harsDev2",
+    "Email ID": "harshDev2@gmail.com",
+    "Password": "$2b$10$KW9OWUDOj66jh3QgYodL0eNesBe9sKk.XDtlWwYA.Rxo1LaqlVICG",
+    "Phone number": "",
+    "Favorite": [],
+    "Cart": [],
+    "Address": {
+      "Name": "",
+      "Local phone number": "",
+      "House no.": "",
+      "Street": "",
+      "Landmark": "",
+      "District": "",
+      "City": "",
+      "State": "",
+      "Pin code": ""
+    },
+    "Order History": [
+      {
+        "Order ID": 1725276358439,
+        "User": {
+          "User ID": 1725192724117,
+          "Username": "harsDev2",
+          "Email ID": "harshDev2@gmail.com",
+          "Phone number": "",
+          "Name": "Harsh dev"
+        },
+        "Products": [
+          {
+            "Product ID": 2,
+            "Size": "M",
+            "Quantity": 6,
+            "Product name": "Women's Crochet Tote Bag",
+            "Product image": "https://a.media-amazon.com/images/I/51wMoZ-h2CL._SY695_.jpg",
+            "Product price": 699
+          }
+        ],
+        "Delivered to": {
+          "Name": "",
+          "Local phone number": "",
+          "House no.": "",
+          "Street": "",
+          "Landmark": "",
+          "District": "",
+          "City": "",
+          "State": "",
+          "Pin code": ""
+        },
+        "Status": "placed",
+        "Placed on": "2/9/2024",
+        "Expected delivery date": "6/9/2024",
+        "Delivered on": "",
+        "Total amount": null,
+        "Payment mode": "Cash on Delivery"
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+.admin-home-page {
+    margin-top: 20px;
+  }
+  
+  .dashboard-card {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .dashboard-icon {
+    font-size: 40px;
+    color: #1976d2; /* Primary color */
+    margin-bottom: 10px;
+  }
+  

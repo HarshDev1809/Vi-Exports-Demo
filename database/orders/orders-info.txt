@@ -1,0 +1,24 @@
+1. Orders Schema:
+
+    {
+        "Order ID" : ,
+        "User" : {
+            "User Id" : ,
+            "Username": ,
+            "Email ID": ,
+            "Phone number" : ,
+            "Name" : ,
+        } ,
+        "Products" : [
+            "Product ID": ,
+            "Size": ,
+            "Quantity" : ,
+        ],
+        "Delivered to": ,
+        "Status" : ,
+        "Placed on" : ,
+        "Expected delivery date" : ,
+        "Delivered on" : ,
+        "Total amount" : ,
+        "Payment mode" : 
+    }

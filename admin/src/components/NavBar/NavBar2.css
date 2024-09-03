@@ -1,0 +1,29 @@
+/* NavBar.css */
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 96vw;
+    padding-right: 10x;
+  }
+  
+  .nav-title {
+    flex-grow: 1;
+    cursor: pointer;
+  }
+  
+  .nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  .nav-actions .MuiButton-root {
+    margin-right: 15px;
+  }
+  
+  .MuiIconButton-root {
+    margin-left: 15px;
+  }
+  

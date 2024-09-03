@@ -1,0 +1,24 @@
+.cart-item{
+    height: 15vh;
+    width: 90%;
+}
+
+.cart-item img{
+    height: 100%;
+    object-fit: contain;
+}
+
+.cart-item .secondary-div .delete-btn{
+    height: 20px !important;
+    width: 20px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.cart-item .delete-btn > span{
+    font-size: 0.8rem;
+}
+
+.cart-item .secondary-div :nth-child(2){
+    height: 30%;
+}

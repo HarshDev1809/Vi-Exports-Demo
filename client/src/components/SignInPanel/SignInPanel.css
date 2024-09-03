@@ -1,0 +1,229 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-div{
+    background-color: black;
+    height : 100vh;
+    width: 35vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem; */
+    /* min-width: 400px; */
+/* }
+
+.signin-panel-div{
+    height: 75%;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: rgba(263,263,263,0.7);
+}
+
+.header-div{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center; */
+    /* justify-content: center;
+    align-items: center; */
+
+/* }/ */
+
+/* .form-div{
+    height: 70%;
+    width : 100%;
+} */
+
+/* .input-form{
+    border: 2px solid black;
+    height: 100%;
+}
+
+.footer-div{
+    border: 2px solid black;
+    height: 10%;
+    width: 80%;
+} */
+
+/* 
+.input-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: column;
+    height: 100%;
+}
+
+.signin-input{
+    width: 90%;
+    padding : 7px;
+    height: 13%;
+    margin: 10px 0px;
+    border-radius: 7px;
+    border: none;
+    font-size: 1.1em;
+}
+
+.footer-div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    /* margin-top: 70px;
+    padding: 8px; */
+    /* font-size: 0.8em;
+    height: 15%;
+    width: 80%;
+}
+
+.signin-btn{
+    height: 10%;
+    width: 40%;
+    border-radius: 7px;
+    border: none;
+    margin: 10px 0px;
+    font-size: 1.1em;
+}
+
+.hover:hover{
+    cursor: pointer;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.mt-5{
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 768px){
+    .main-div{
+        width: 100vw;
+        padding: 5% !important;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .main-div{
+        width: 40vw;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .main-div{
+        width: 100vw;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .main-div{
+        width: 100vw;
+        padding: 0% !important;
+        height: 100vh;
+        background-color: white;
+    }
+
+    .signin-panel-div{
+        height: 100% !important;
+        width: 100% !important;
+    }
+} */
+
+/* SignInPanel.css */
+
+.main-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .signin-panel-div {
+    background-color: #ffffff;
+    padding: 30px 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  .header-div h3 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .header-div p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .input-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .signin-input {
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+  }
+  
+  .signin-input:focus {
+    outline: none;
+    border-color: #667eea;
+  }
+  
+  .signin-btn {
+    padding: 10px 20px;
+    background-color: #667eea;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .signin-btn:hover {
+    background-color: #5563c1;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  .footer-div {
+    margin-top: 20px;
+  }
+  
+  .signup-link {
+    font-size: 14px;
+    color: #667eea;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .signup-link:hover {
+    color: #5563c1;
+  }
+  

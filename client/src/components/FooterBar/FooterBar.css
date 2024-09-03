@@ -1,0 +1,39 @@
+.footer ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+.footer{
+    background-color: #007bff;
+    color : white
+}
+
+@media screen and (max-width:925px) {
+    .footer{
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: start;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .footer{
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+    }
+
+    .footer ul {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-self:center;
+            width: 100%;
+    }
+
+    .footer li {
+            text-align: center;
+    }
+
+}
